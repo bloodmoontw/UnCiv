@@ -12,6 +12,7 @@
 		German:"Palast"
 		Polish:"Pałac",
 		Czech:"Palác"
+		Traditional_Chinese:"宮殿"
 }
 
 	"Indicates the capital city":{
@@ -24,6 +25,7 @@
 		Polish:"Wskazuje stolicę"
 		Russian:"Показывает столицу"
 		Czech:"Označuje hlavní město"
+		Traditional_Chinese:"表示首都"
 }
 
 	"Monument":{
@@ -37,6 +39,7 @@
 		German:"Monument"
 		Polish:"Pomnik"
 		Czech:"Pomník"
+		Traditional_Chinese:"紀念碑"
 }
 
 	"Granary":{
@@ -50,6 +53,7 @@
 		German:"Kornspeicher"
 		Polish:"Spichlerz"
 		Czech:"Sýpka"
+		Traditional_Chinese:"穀倉"
 }
 
 	"Stone Works":{
@@ -63,6 +67,7 @@
 		German:"Mauerwerk"
 		Polish:"Kamieniarz"
 		Czech:"Kamenictví"
+		Traditional_Chinese:"石匠工坊"
 }
 
 	"Must not be on plains":{
@@ -73,6 +78,7 @@
 		Simplified_Chinese:"城市不能位于平原"
 		Czech:"Nesmí být na pláních."
 		German:"Darf nicht auf dem Flachland sein."
+		Traditional_Chinese:"城市不能在平原建造"
 }
 
 	"Stonehenge":{
